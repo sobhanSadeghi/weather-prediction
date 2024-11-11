@@ -1,0 +1,11 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore environment folders
+weather-project/
+.env
+
+# Ignore Streamlit-specific cache or config files
+.streamlit/
+.DS_Store
