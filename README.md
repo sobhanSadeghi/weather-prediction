@@ -47,5 +47,4 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/weather-prediction.git
-   cd weather-prediction
+   git clone https://github.com/sobhanSadeghi/weather-prediction.git
